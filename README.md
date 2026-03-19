@@ -287,24 +287,18 @@ db.grades.getShardDistribution()
 
 Пропускная способность
 
-```markdown
 ![Throughput](./benchmark/throughput.png)
-```
 
 95-й процентиль задержки
 
-```markdown
 ![P95 latency](./benchmark/p95_latency.png)
-```
 
 
 ### Скриншоты работы проекта
 
-```markdown
 ![Статус кластера](./screenshots/sh-status.png)
 ![Распределение grades](./screenshots/grades-distribution.png)
 ![Распределение enrollments](./screenshots/enrollments-distribution.png)
 ![Меню приложения](./screenshots/app-menu.png)
 ![Запрос в приложении](./screenshots/app-query.png)
 ![Запуск benchmark](./screenshots/benchmark-run.png)
-```
