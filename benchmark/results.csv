@@ -1,0 +1,4 @@
+test,total_ops,workers,total_time_sec,throughput_ops_sec,avg_latency_ms,p95_latency_ms
+insert-heavy,5000,50,2.2444,2227.74,21.377,36.084
+read-heavy,5000,50,2.1147,2364.35,19.949,36.273
+mixed,5000,50,2.1019,2378.75,19.598,35.261
